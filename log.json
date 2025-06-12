@@ -86,5 +86,27 @@
             "ErrorLog": "0",
             "ErrorUltm": ""
         }
+    },
+    {
+        "timestamp": "2025-06-12 16:29:03.096",
+        "tabla": "Usuario",
+        "registro": {
+            "Clave": "9999999999",
+            "Fecha_sys": "2025-06-12 16:28:27.793",
+            "Fecha_Vcia": "2025-06-12 16:28:27.793",
+            "Usuario": "ichaffin",
+            "Desc_Corta": "TEST",
+            "Desc_Larga": "TEST larga",
+            "Logname": "9999999999",
+            "Email": "",
+            "Perfil": "",
+            "Estado": "",
+            "Password": "P87kLP*ORFG",
+            "Idioma": "",
+            "Pass": "",
+            "Menu_Horizontal": "",
+            "ErrorLog": "0",
+            "ErrorUltm": ""
+        }
     }
 ]
