@@ -1,0 +1,90 @@
+[
+    {
+        "timestamp": "2025-06-12 15:16:48.166",
+        "tabla": "Usuario",
+        "registro": {
+            "Clave": "9999999996",
+            "Fecha_sys": "2025-06-12 15:16:20.799",
+            "Fecha_Vcia": "2025-06-12 15:16:20.799",
+            "Usuario": "ichaffin",
+            "Desc_Corta": "TEST corto",
+            "Desc_Larga": "TEST Lardo",
+            "Logname": "",
+            "Email": "",
+            "Perfil": "2",
+            "Estado": "",
+            "Password": "",
+            "Idioma": "",
+            "Pass": "",
+            "Menu_Horizontal": "",
+            "ErrorLog": "0",
+            "ErrorUltm": ""
+        }
+    },
+    {
+        "timestamp": "2025-06-12 15:33:20.567",
+        "tabla": "Usuario",
+        "registro": {
+            "Clave": "9999999999",
+            "Fecha_sys": "2025-06-12 15:32:27.193",
+            "Fecha_Vcia": "2025-06-12 15:32:27.193",
+            "Usuario": "ichaffin",
+            "Desc_Corta": "TEST corto",
+            "Desc_Larga": "TEST Lardo",
+            "Logname": "9999999999",
+            "Email": "ignacio.chaffin@gmail.com",
+            "Perfil": "2",
+            "Estado": "0",
+            "Password": "qwerty01234",
+            "Idioma": "",
+            "Pass": "",
+            "Menu_Horizontal": "",
+            "ErrorLog": "0",
+            "ErrorUltm": ""
+        }
+    },
+    {
+        "timestamp": "2025-06-12 15:56:15.745",
+        "tabla": "Usuario",
+        "registro": {
+            "Clave": "9999999991",
+            "Fecha_sys": "2025-06-12 15:55:37.151",
+            "Fecha_Vcia": "2025-06-12 15:55:37.151",
+            "Usuario": "ichaffin",
+            "Desc_Corta": "TEST corto",
+            "Desc_Larga": "TEST Lardo",
+            "Logname": "9999999991",
+            "Email": "ignacio.chaffin@gmail.com",
+            "Perfil": "2",
+            "Estado": "",
+            "Password": "qwerty0123411",
+            "Idioma": "",
+            "Pass": "",
+            "Menu_Horizontal": "",
+            "ErrorLog": "0",
+            "ErrorUltm": ""
+        }
+    },
+    {
+        "timestamp": "2025-06-12 16:01:54.243",
+        "tabla": "Usuario",
+        "registro": {
+            "Clave": "9999999992",
+            "Fecha_sys": "2025-06-12 16:01:03.844",
+            "Fecha_Vcia": "2025-06-10 16:00:23",
+            "Usuario": "2025-06-12 16:01:03.844",
+            "Desc_Corta": "TEST",
+            "Desc_Larga": "TEST larga",
+            "Logname": "9999999992",
+            "Email": "marignac@quilmes.com.ar",
+            "Perfil": "2",
+            "Estado": "0",
+            "Password": "P87kLP*ORFG",
+            "Idioma": "i",
+            "Pass": "",
+            "Menu_Horizontal": "",
+            "ErrorLog": "0",
+            "ErrorUltm": ""
+        }
+    }
+]
