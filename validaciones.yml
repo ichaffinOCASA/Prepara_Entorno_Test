@@ -1,0 +1,35 @@
+validaciones:
+  - base: eCommerce     # (Requerido) Nombre de la base de datos
+    tabla: Usuario      # (Requerido) Nombre de la base de datos
+    campo: Clave        # (Requerido) Nombre de la base de datos
+    tipo: string        # Tipo para validar longitud
+    max_caracteres: 10
+    requerido: true     # Si es true, el campo no puede estar vacío
+    formato: numerico   # Solo dígitos del 0-9
+    
+  - base: eCommerce
+    tabla: ECO_AcuerdoProd
+    campo: Clave
+    tipo: string  
+    min_caracteres: 15
+    max_caracteres: 15
+    requerido: true
+    formato: numerico  # Solo dígitos del 0-9
+  
+  - base: eCommerce
+    tabla: ECO_AcuerdoProd
+    campo: Pos
+    tipo: string  
+    min_caracteres: 5
+    max_caracteres: 5
+    requerido: true
+    formato: numerico  
+   
+  - base: eCommerce
+    tabla: ECO_AcuerdoProd
+    campo: AcuerdoProducto
+    tipo: string  
+    min_caracteres: 10
+    max_caracteres: 10
+    requerido: true
+    formato: numerico  # Solo dígitos del 0-9  
